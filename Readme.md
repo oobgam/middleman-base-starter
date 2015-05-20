@@ -1,0 +1,1 @@
+# Starter Template for Middleman with extensions
